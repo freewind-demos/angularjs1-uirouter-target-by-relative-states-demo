@@ -7,7 +7,7 @@ AngularJS1 "@uirouter" Target By Relative States Demo
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
 Documentation
